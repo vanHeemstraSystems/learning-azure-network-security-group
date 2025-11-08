@@ -127,7 +127,7 @@ NSG does NOT operate at:
 
 ## How This Helps Your Technical Assessment:
 
-When Team Rockstars shows you an Azure architecture, you can now:
+When someone shows you an Azure architecture, you can now:
 
 **Instantly Recognize**:
 
