@@ -1,5 +1,5 @@
 learning-azure-network-security-group
-# Learning Azure network Security Group (NSG)
+# Learning Azure Network Security Group (NSG)
 
 - [References](./REFERENCES.md)
 
