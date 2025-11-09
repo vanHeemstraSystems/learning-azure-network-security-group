@@ -1,10 +1,6 @@
 # 100 - Azure Network Security Group (NSG)
 
-I’ll create a comprehensive “reverse engineering” breakdown of Azure NSGs, showing how they work from the portal level all the way down to the TCP/IP fundamentals!​​​​​​​​​​​​​​​​
-
-Perfect! I’ve created a comprehensive “reverse engineering” breakdown of Azure NSGs, from the portal all the way down to the TCP/IP packet level!
-
-[View your Azure NSG Reverse Engineering Guide](computer:///mnt/user-data/outputs/Azure-NSG-Reverse-Engineering.md)
+This is a comprehensive “reverse engineering” breakdown of Azure NSGs, showing how they work from the portal level all the way down to the TCP/IP fundamentals!​​​​​​​​​​​​​​​​
 
 ## What’s Inside - The Complete NSG Breakdown:
 
