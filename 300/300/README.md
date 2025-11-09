@@ -1,4 +1,4 @@
-# 100 - Azure Network Security Group (NSG)
+# 300 - Azure Network Security Group (NSG)
 
 This is a comprehensive “reverse engineering” breakdown of Azure NSGs, showing how they work from the portal level all the way down to the TCP/IP fundamentals!​​​​​​​​​​​​​​​​
 
